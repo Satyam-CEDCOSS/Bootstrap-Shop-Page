@@ -1,43 +1,50 @@
 /* For Images */
-.img-center{
+.img-center {
     display: flex;
     margin: auto;
 }
+
 /* Section Portion */
-section{
+section {
     background-color: #fef4f4;
     padding-bottom: 5%;
 }
+
 /* For writin on image  */
-.card{
+.card {
     background-color: #fef4f4;
     border: none;
 }
-.card-title{
+
+.card-title {
     margin-left: 32%;
     margin-top: 350px;
     /* margin: auto; */
     font-size: 4rem;
     color: white;
 }
-.card-btn{
+
+.card-btn {
     margin-left: 45%;
     margin-top: 50px;
     font-size: 30px;
 }
+
 /* To center the boxex */
-.box-center{
+.box-center {
     display: flex;
     margin: auto;
     padding: auto;
     justify-content: center;
 }
+
 /* Fixed the size of image  */
-.img-size{
+.img-size {
     width: 100%;
     height: 350px;
 }
+
 /* Hover Button  */
-button:hover{
+button:hover {
     background-color: red;
 }
